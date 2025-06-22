@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2025-06-22T03:20:04.738Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "455156891",
+        "path": "/outstatic/content/nyt/test.mdx"
+      },
+      "author": {
+        "name": "abc",
+        "picture": "https://avatars.githubusercontent.com/u/103240827?v=4"
+      },
+      "collection": "nyt",
+      "publishedAt": "2025-06-22T04:07:36.307Z",
+      "slug": "test",
+      "status": "published",
+      "title": "test"
+    }
+  ]
+}
