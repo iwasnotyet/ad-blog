@@ -1,11 +1,11 @@
 {
-  "commit": "",
-  "generated": "2025-06-22T03:20:04.738Z",
+  "commit": "f14ddc2633f8a4398836d31a6a3d68d6d82f60a8",
+  "generated": "2025-06-22T03:21:09.663Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "",
-        "hash": "455156891",
+        "commit": "f14ddc2633f8a4398836d31a6a3d68d6d82f60a8",
+        "hash": "998856075",
         "path": "/outstatic/content/nyt/test.mdx"
       },
       "author": {
